@@ -1,11 +1,11 @@
 const products = [
   {
     name: "SBInjector",
-    manifestUrl: "./SBInjector/latest.json",
+    manifestUrl: "./files/SBInjector/latest.json",
   },
   {
     name: "OsuPatch",
-    manifestUrl: "./OsuPatch/latest.json",
+    manifestUrl: "./files/OsuPatch/latest.json",
   }
 ];
 
