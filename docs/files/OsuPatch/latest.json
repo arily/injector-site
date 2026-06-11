@@ -1,1 +1,1 @@
-{"version":"0.0.17","hash":"02b013d4fb31b8818cbc7518c789dbb42d579626","downloadUrl":"https://arily.github.io/patcher/files/OsuPatch/OsuPatch-0.0.17.dll","releaseNote":"Roll back PP Algorithm"}
+{"version":"0.0.18","hash":"826e51f3fe32aebb007ffd341e7001e7a8e79b95","downloadUrl":"https://arily.github.io/patcher/files/OsuPatch/OsuPatch-0.0.18.dll","releaseNote":"Fix compatibility with latest CuttingEdge version\nBlock the \"Invalid Certificate\" notification"}
